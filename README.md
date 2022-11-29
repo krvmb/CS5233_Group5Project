@@ -9,7 +9,7 @@ Group Members:
     Nithish Reddy Gundla
 
 Please note, All .ipynb files are expected to be run using google colab.  
-The source code provided here acts as simply a recepticle, note a usable code base
+The source code provided here acts as simply a recepticle, not a usable code base
 
 The VGG16 model was implemented via minor modifications from the article:
     https://towardsdatascience.com/detecting-covid-19-induced-pneumonia-from-chest-x-rays-with-transfer-learning-an-implementation-311484e6afc1
